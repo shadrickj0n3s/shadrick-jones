@@ -1,0 +1,83 @@
+p, h2{
+    font-family: "Times New Roman", Times, serif;
+    size: 12 px;
+}
+a{
+    font-family: Verdana, Geneva, sans-serif; font-size: 12x;
+    padding: 50px 50px;
+}
+
+.bakground{
+    background-color:white;
+    
+}
+
+.container{
+    background-color:rgb(176,196,222);
+    margin: auto;
+    align-content: center;
+    width: 80%;
+    
+}
+.nav{
+    align: center;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    text-position: center;
+ 
+}
+.body{
+    background-color: rgb(205, 209, 209);
+    margin: auto;
+    width: 80%;
+}
+.nat{
+    font-size: 150%;
+    color: black;
+    margin-left: 2%;
+
+    
+}
+.bod{
+    background-color: rgb(222, 237, 243);
+    margin: auto;
+    width: 80% ; 
+    text-align: center;
+    direction: ltr;
+
+}
+.first{
+    margin: auto;
+    width: 80% ;
+}
+.img{
+    margin-left: auto;
+}
+.earth{
+    font-size: 150%;
+    color: black ;
+    margin: auto;
+
+}
+.sec{
+    margin: auto ;
+    width: 80% ;
+
+}
+.secimg{
+    margin: auto;
+
+}
+.footer {
+    background-color: rgb(176,196,222);
+    width: 80%;
+    height: 110px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
